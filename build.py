@@ -5,7 +5,6 @@
 # Example, to build everything:
 #     >python build.py all > build_output.txt
 #
-# Author: Stephen Fewer (stephen_fewer[at]harmonysecurity[dot]com)
 #=============================================================================#
 import os, sys, time
 from subprocess import Popen
