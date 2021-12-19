@@ -1,9 +1,4 @@
 #=============================================================================#
-# A simple python build script to build the singles/stages/stagers and
-# some usefull information such as offsets and a hex dump. The binary output
-# will be placed in the bin directory. A hex string and usefull comments will
-# be printed to screen.
-#
 # Example:
 #     >python build.py stager_reverse_tcp_nx
 #
