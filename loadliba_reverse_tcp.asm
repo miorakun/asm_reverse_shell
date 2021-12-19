@@ -1,9 +1,4 @@
-;-----------------------------------------------------------------------------;
-; Author: Stephen Fewer (stephen_fewer[at]harmonysecurity[dot]com)
-; Compatible: Windows 7, 2008, Vista, 2003, XP, 2000, NT4
-; Version: 1.0 (24 July 2009)
-; Updated by: Joshua Pitts (May 30 2014) for loadliba shellcode
-;-----------------------------------------------------------------------------;
+----;
 [BITS 32]
 
 
